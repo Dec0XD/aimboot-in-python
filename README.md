@@ -42,10 +42,9 @@ Este código é um script que automatiza a tarefa de clicar em uma imagem espec�
 ## 📸 Layouts
 Video da execulção do prejeto no drive
 
-https://drive.google.com/file/d/1z3voF0os3tGnpWaGlCPCszYWG1pSNyk4/view?usp=sharing
+https://user-images.githubusercontent.com/83669560/216595818-d249c0f1-2dbf-4975-955d-5e3e0e2c2dc9.mp4
 
 <br>
-
 #
 
 Create by Dec0XD.
